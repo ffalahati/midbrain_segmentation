@@ -4,8 +4,8 @@ This repository contains trained deep learning networks for the segmentation of 
 The networks are trained using multi-sequence MRI data, specifically, T1-weighted, T2-FLAIR, and Quantitative Susceptibility Mapping (QSM) images. 
 The networks are trained on 40 brain images, where the nuclei were manually traced on for each nucleus on QSM images.
 
-For more information, please read [this paper]():
-Falahati F., Gustavsson J., Kalpouzos G. (2024). Automated segmentation of midbrain nuclei using deep learning and multisequence MRI: a longitudinal study on iron accumulation with age. [Manuscript in preparation]
+For more information, please read [this paper](https://doi.org/10.1162/imag_a_00304):
+Farshad Falahati, Jonatan Gustavsson, Grégoria Kalpouzos; Automated segmentation of midbrain nuclei using deep learning and multisequence MRI: A longitudinal study on iron accumulation with age. Imaging Neuroscience 2024; 2 1–20. doi: https://doi.org/10.1162/imag_a_00304
 
 ## Trained networks
 The trained networks could be downloaded from this [link](https://1drv.ms/u/s!Ai108NIExicshy-jF9FlZvhL515W?e=2tEFvR).
